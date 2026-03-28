@@ -1,10 +1,11 @@
 <div align="center">
+<h1>Welcome to my GitHub! 👨‍💻 I'm Uday Kumar</h1>
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Uday%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20ML%20%26%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=M.Sc+AI+%26+ML+%40+IIIT+Lucknow;Python+%7C+SQL+%7C+TensorFlow+%7C+Scikit-learn;Building+Intelligent+Solutions;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=M.Sc+AI+%26+ML+%40+IIIT+Lucknow;Python+%7C+SQL+%7C+TensorFlow+%7C+Scikit-learn;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
