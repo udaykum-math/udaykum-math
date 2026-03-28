@@ -60,10 +60,10 @@ uday = {
 ### 🔷 Customer Churn Prediction using ANN
 > Predicting customer churn for a bank dataset of 10,000 customers using Deep Learning.
 
-- 🧠 Built a multi-layer **Artificial Neural Network** using TensorFlow & Keras
+- 🧠 Built a multi-layer **Artificial Neural Network** using TensorFlow and Keras
 - 📈 Achieved **~86% accuracy** and **0.87 ROC-AUC**
 - 🔍 Performed end-to-end EDA — Germany had the highest churn rate (~32%)
-- ⚙️ Applied **Dropout regularization** & **Early Stopping** to prevent overfitting
+- ⚙️ Applied **Dropout regularization** and **Early Stopping** to prevent overfitting
 
 `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
@@ -100,7 +100,7 @@ uday = {
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| **M.Sc in Artificial Intelligence & Machine Learning** | IIIT Lucknow | 2025 – Present |
+| **M.Sc in Artificial Intelligence and Machine Learning** | IIIT Lucknow | 2025 – Present |
 | **B.Sc in Mathematics** | Hindu College, MJPRU Bareilly | 2021 – 2024 |
 
 ---
