@@ -19,20 +19,12 @@
 
 ## 🧠 About Me
 
-```python
-uday = {
-    "name"        : "Uday Kumar",
-    "role"        : "Aspiring ML & AI Engineer",
-    "education"   : "M.Sc AI & ML @ IIIT Lucknow",
-    "languages"   : ["Python", "SQL"],
-    "libraries"   : ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Keras"],
-    "interests"   : ["Machine Learning", "Deep Learning", "Data Science"],
-    "looking_for" : "Internship Opportunities 🚀",
-    "fun_fact"    : "I implemented Linear Regression from scratch — no shortcuts!"
-}
-```
-
----
+- 🎓 M.Sc in AI & ML student at Indian Institute of Information Technology, Lucknow
+- 💡 Curious about how Machine Learning can be used to solve everyday problems
+- 🔬 Hands-on experience with ANN, Linear Regression, and end-to-end ML pipelines
+- 🐍 Strong foundation in Python, SQL, and core ML algorithms
+- 🚀 Currently exploring Neural Networks, Predictive Modeling & Data Science
+- 🤝 Open to ML/AI Internship Opportunities
 
 ## 🛠️ Tech Stack
 
